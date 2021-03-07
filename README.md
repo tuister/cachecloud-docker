@@ -21,3 +21,7 @@ bash build.sh $cachecloud_version
 ```
 
 > latest cachecloud_version is 2.0
+
+## 文档
+
+[用户手册](./USER_GUIDE.md)
